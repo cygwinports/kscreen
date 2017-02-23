@@ -1,0 +1,8 @@
+inherit kf5
+
+NAME="kscreen"
+VERSION=5.8.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE display configuration"
+DESCRIPTION="KDE Plasma component: manage and configure monitors and displays"
